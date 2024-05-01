@@ -1,8 +1,8 @@
 # Hello, World! 👋
 
-I'm a recent graduate from a **Data Analyst Bootcamp**, ready to kickstart my career in the exciting world of data. With a strong foundation in **data manipulation**, **visualization**, and **statistical analysis**, I'm eager to bring my skills to a dynamic team.
+I'm a recent graduate from a **Data Analyst Bootcamp**, ready to kickstart my career in the exciting world of data. With a strong foundation in **data manipulation**, **visualisation**, and **statistical analysis**, I'm eager to bring my skills to a dynamic team.
 
-During my bootcamp, I honed my skills in **Python**, **SQL**, **Excel**, and **Power BI**. I've also had the opportunity to work on several data projects, which you can explore right here on my GitHub.
+During my bootcamp, I honed my skills in **Excel**, **SQL**, **Python**, and **Power BI**. I've also had the opportunity to work on several data projects, which you can explore right here on my GitHub.
 
 I'm passionate about turning raw data into meaningful insights that drive business decision-making. I love the thrill of solving complex problems and the satisfaction that comes with finding a solution hidden within the data.
 
